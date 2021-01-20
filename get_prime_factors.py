@@ -7,4 +7,3 @@ def get_prime_factors(n):
         elif i == n:
             return [i]         
 
-print(get_prime_factors(13))
